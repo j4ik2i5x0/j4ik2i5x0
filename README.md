@@ -4,7 +4,8 @@
 &nbsp;  
 &nbsp;  
 <div>
-<!-- Add any image or card you want here if needed -->
+  
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 </div>
 
 ### About Me: 🙋‍♂️  
@@ -16,7 +17,16 @@
 
 - 💭 Ask me anything about **Development and Cybersecurity**  
 
-- 📫 How to reach me: **[jaikris24@gmail.com](mailto:jaikris24@gmail.com)**  
+- 📫 How to reach me: 
+    <p>
+      <a href="mailto:jaikris24@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle; margin-right: 10px;" /> </a>   <a href="https://www.linkedin.com/in/jai-kriz/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+    </p>
+
+
+
+
+ 
 
 
 ---
@@ -55,6 +65,14 @@
   <img width="70" height="70" src="https://img.icons8.com/color/80/linux--v1.png" alt="Linux"/>
 </div>
 
+---
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jaikris24?theme=dark&font=Scada&ext=heatmap)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j4ik2i5x0&bg_color=000000&color=ffffff&line=32c33c&point=92e8b7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![j4ik2i5x0's Stats](https://github-readme-stats.vercel.app/api?username=j4ik2i5x0&theme=gotham&show_icons=true&hide_border=true&count_private=true) 
+![j4ik2i5x0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=j4ik2i5x0&theme=gotham&hide_border=true) ![j4ik2i5x0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ik2i5x0&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
