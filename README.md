@@ -1,11 +1,11 @@
-<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jaikrishnan J</h1>  
+<h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jaikrishnan J</h1>  
 <h2 align="center">Backend Developer | Cybersecurity Enthusiast </h2>  
 
 &nbsp;  
 &nbsp;  
 <div>
   
-<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="right" width="320" height="290" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 </div>
 
 ### About Me: 🙋‍♂️  
@@ -22,12 +22,6 @@
       <a href="mailto:jaikris24@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle; margin-right: 10px;" /> </a>   <a href="https://www.linkedin.com/in/jai-kriz/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
     </p>
-
-
-
-
- 
-
 
 ---
 
