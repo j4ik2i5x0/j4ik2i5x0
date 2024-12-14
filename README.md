@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Jaikrishnan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
-<h2 align="center">Backend Developer | Cybersecurity Enthusiast </h2>  
+<h2 align="center">Software Developer | Cybersecurity Enthusiast </h2>  
 
 &nbsp;  
 &nbsp;  
