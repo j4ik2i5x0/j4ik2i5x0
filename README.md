@@ -34,7 +34,7 @@
   <a href="https://leetcode.com/jaikris24/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - Jaikrishnan J" height="30" width="30" hspace="10" />
   </a>
-  <a href="https://www.geeksforgeeks.org/j4ik2i5x0/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/j4ik2i5x0/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - Jaikrishnan J" height="40" width="40" hspace="10" />
   </a>
 </p>
