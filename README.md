@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Jaikrishnan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
-<h2 align="center">Software Developer | Cybersecurity Enthusiast </h2>  
+<h2 align="center">Software Developer | Cybersecurity Researcher </h2>  
 
 &nbsp;  
 &nbsp;  
@@ -11,7 +11,9 @@
 ### About Me: 🙋‍♂️  
 - 🎓 I’m currently pursuing **B.E. Computer Science** with a specialization in **Cybersecurity** at **Sathyabama Institute of Science and Technology**  
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**  
+- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
+
+- 🐞 I'm a **CTF Player & TryHackme Top 7%**
 
 - 🔒 Passionate about **Cybersecurity**, especially **Red Teaming** techniques  
 
