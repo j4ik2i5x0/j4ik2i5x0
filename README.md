@@ -51,7 +51,6 @@
   <img width="70" height="70" src="https://img.icons8.com/color/96/css3.png" alt="CSS"/>
   <img width="70" height="70" src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript"/>
   <img width="70" height="70" src="https://img.icons8.com/color/80/spring-logo.png" alt="Spring"/>
-  <img width="70" height="70" src="https://img.icons8.com/material-outlined/80/django.png" alt="Django"/>
   <img width="70" height="70" src="https://img.icons8.com/color/80/mysql-logo.png" alt="MySQL"/>
   <img width="70" height="70" src="https://img.icons8.com/color/80/mongo-db.png" alt="MongoDB"/>
   <img width="70" height="70" src="https://img.icons8.com/color/80/git.png" alt="Git"/>
