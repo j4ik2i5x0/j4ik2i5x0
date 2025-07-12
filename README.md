@@ -8,16 +8,20 @@
 <img align="right" width="320" height="290" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 </div>
 
-### About Me: 🙋‍♂️  
-- 🎓 I’m currently pursuing **B.E. Computer Science** with a specialization in **Cybersecurity** at **Sathyabama Institute of Science and Technology**  
+### About Me 🙋‍♂️
 
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
+- 🎓 I’m currently pursuing **B.E. Computer Science** with a specialization in **Cybersecurity** at **Sathyabama Institute of Science and Technology**
 
-- 🐞 I'm a **CTF Player & TryHackme Top 7%**
+- 🌱 Actively focusing on **Data Structures and Algorithms (DSA)** using **Java**
 
-- 🔒 Passionate about **Cybersecurity**, especially **Red Teaming** techniques  
+- 🐞 I'm a **CTF Player**, constantly exploring real-world attack vectors
 
-- 💭 Ask me anything about **Development and Cybersecurity**  
+- 🔒 Passionate about **Cybersecurity**, especially **Red Teaming**, **DevSecOps**, and **Blockchain Security**
+
+- ☁️ Exploring **Cloud Security** and **DevSecOps pipelines** for secure deployments
+
+- 💭 Ask me anything about **Development**, **Cybersecurity**, **DevSecOps**, **Cloud**, or **Blockchain**
+
 
 - 📫 How to reach me: 
     <p>
@@ -36,31 +40,41 @@
   <a href="https://leetcode.com/jaikris24/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - Jaikrishnan J" height="30" width="30" hspace="10" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/j4ik2i5x0/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - Jaikrishnan J" height="40" width="40" hspace="10" />
-  </a>
+ 
 </p>
-
-<p align="left">
-  <h3>Tech Skills :bulb:</h3>
-</p>
-
-<div align="left">
-  <img width="70" height="70" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="Java"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/96/python--v1.png" alt="Python"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/96/c-programming.png" alt="C"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/96/html-5.png" alt="HTML"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/96/css3.png" alt="CSS"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/80/spring-logo.png" alt="Spring"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/80/mysql-logo.png" alt="MySQL"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/80/mongo-db.png" alt="MongoDB"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/80/git.png" alt="Git"/>
-  <img width="70" height="70" src="https://img.icons8.com/fluency/80/docker.png" alt="Docker"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/80/linux--v1.png" alt="Linux"/>
-</div>
 
 ---
+
+### Tech Stack 💡
+
+#### Backend Frameworks
+![Python](https://img.shields.io/badge/Flask-3BABC3.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![Springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![Js](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+#### DevOps & Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+![ZAP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
+
+
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jaikris24?theme=dark&font=Scada&ext=heatmap)
